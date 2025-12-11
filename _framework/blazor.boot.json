@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ManitoProject",
   "resources": {
-    "hash": "sha256-y5NlAE86IiNzDRwb+rmvfAp8ml3EddEb16n9sTamkQM=",
+    "hash": "sha256-ScWRHxp/OBFONLIzWdQiLDhfK633pBNQo1m/c4LZVbM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-/b45V5Jdd0EFXlhGjqU3ESE1zve5U2+5K4VZFpC3+mE="
     },
@@ -81,7 +81,7 @@
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "netstandard.wasm": "sha256-S7elVsn9CUZRSiKjtRVEas5AfuWeSpU/guq6kBoNS44=",
       "System.Private.CoreLib.wasm": "sha256-80aPtsmDUK+TEjk8Kpon8HkiZpTgdptePtnhrKZgm8s=",
-      "ManitoProject.wasm": "sha256-TBmUVWfVORX4iCuDxuQjMB3qZ5GNL5NdGQm3ygpxDCs="
+      "ManitoProject.wasm": "sha256-Ces5sZ19cBAs5debTpjZlNwGgAC1Jn30Do892Ib8WoE="
     }
   },
   "cacheBootResources": true,
